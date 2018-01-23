@@ -144,7 +144,7 @@ This guide describes specific choices that are known to work well.
       End-to-end tests explore the application _as users experience it_.
       In e2e testing, one process runs the real application
       and a second process runs protractor tests that simulate user behavior
-      and assert that the application respond in the browser as expected.
+      and assert that the application responds in the browser as expected.
 
     </td>
 
